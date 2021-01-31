@@ -44,17 +44,36 @@ Little info about github and how to use it.
 How to create a repository.
 How to add a new file and wriite the description for it
 
-______________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________________
                                           **Python for Data Analysis**
                                                  **Chapter1**
 
-Types of Data
-Libraries
-Installation and setup
-Basic idea on what python is and for what it is used.
+# common data types
+ - Integer
+ - Float
+ - Boolean
+ - String
+ 
+# Libraries
 
+# Installation and setup
+ Go to python.organd download it from there After that, to install jupyter notebook go to command prompt and type the command through which you want to download(given in jupyter notebook website)
+ 
+# Basic idea on what python is and for what it is used.
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.
 
+___________________________________________________________________________________________________________________________________________________________________________
 
+                                                   **chapter 2**
+
+# common binary operators
+
+a + b Add a and b
+a - b Subtract b from a
+a * b Multiply a by b
+a / b Divide a by b
+a // b Floor-divide a by b, dropping any fractional remainder
+a ** b Raise a to the b power
 
 
 
