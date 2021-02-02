@@ -1,31 +1,61 @@
-                                                   **Notes for Class1        (cheat sheet)**
+   **Notes for Class1(cheat sheet)**
 
--> To write the heading(with bold and big text) use # for it, and as the number of # increases the text number increases
-number of #'s = number of times the text displays
-example : #Subjects(Heading 1)
-          #course(Heading 2)
+-> For writing the heading(with bold and big text) use # for it, and add # as your heading number increases. Eg
+          #Subjects(Heading 1)
+          ##course(Heading 2)
+	  .
+	  ..
+	  ...
+	  ######teachers(Heading 3)
           
--> To write anything in bold, use "X" without space.   
-X= text you want to write in bold
-example: **SAMYUKTHAGUDA"
+-> For writing anything in bold, use "f" without space.   
+f= text you want to write in bold
+example: **DS690"
 
--> To write anything in italics,use "italicized text" without space.
+-> For writing anything in italics,use "italicized text" without space.
 example : "Data Science"
 
--> To create a blockquote, add a > in front of the paragraph.
-example : > notes for the first class
+-> For creating a blockquote, add a > in front of the paragraph.
+example : > Yesterday was my first class of DS690
+
+-> Ordered List
+1. First item.
+2. Second item.
+3. Third item.
+
+-> Unordered List
+- First item.
+- Second item.
+- Third item.
 
 -> To denote a word or phrase as code, we should enclose that in closed braces (.)
 
--> Inorder to create a horizontal rule, use three or more asterisks(***), hyphens(---) or underscores(___) in a line by themselves.
+-> To create a horizontal rule, use three or more asterisks(***), hyphens(---) or underscores(___) in a line by themselves.
 
 -> To create a link, enclose the link text in brackets and then follow it with URL in paranthesis.
 [title][https.(the link)]
 
--> Inorder to add an image, add an exclamation mark(!), followed by alt text in braces, and the path or URL to image asset in paranthesis.
+-> To add an image, add an exclamation mark(!), followed by alt text in braces, and the path or URL to image asset in paranthesis.
+                          ______________________________________________________________________________________________________
 
+Little info about github and how to use it.
+How to create a repository
+How to add a new file and write the description for it.
+__________________________________________________________________________________________________________________________________________________________________________
+			  	  
+   #Python Basics
 
-**Python Basics**
+**Data Types**
+ - Integer
+ - Float
+ - String
+ - Boolean
+ 
+**Libraries**
+
+**Installation and setup**
+ Go to python.org and download it from there. After that to install jupyter notebook, go to command prompt and type the command through which you want to download(given in   jupyter notebook website)
+
 
 PYTHON:
 Python is a general-purpose, versatile, and powerful programming language. It’s a great first language because it’s concise and easy to read. Python is used from web development to machine learning to data science. It can be used on a server to create web applications.
